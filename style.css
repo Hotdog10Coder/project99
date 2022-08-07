@@ -1,0 +1,37 @@
+.copy_right_footer {
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
+#title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.btn btn-primary{
+    font-family: cursive;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: bisque;
+    border-style: dotted;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+img {
+    max-width:20%;
+    height:auto;
+    
+}
+
+body{
+    background-image: url("picture.jpeg");
+}
